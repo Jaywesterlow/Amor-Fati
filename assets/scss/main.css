@@ -1,0 +1,13 @@
+@in *, ::before, ::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+body div {
+  background-color: turquoise;
+}
+/*# sourceMappingURL=main.css.map */

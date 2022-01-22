@@ -1,0 +1,17 @@
+//imports
+@import "themecolors";
+@import "fonts";
+@import "mixins";
+
+// global
+*, ::before, ::after {
+    box-sizing: border-box;
+    // font-family: $base-family; !DISABLES FONTAWESOME
+}
+
+body {
+    background-color: white;
+    div {
+        background-color: turquoise;
+    }
+}
